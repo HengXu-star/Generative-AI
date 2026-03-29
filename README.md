@@ -21,4 +21,4 @@ I created a Git repository, added the required project files, committed my work 
 
 ## Video Link
 
-Video link will be added after I record and upload the walkthrough video.
+https://youtu.be/OlgcG8uSho0
